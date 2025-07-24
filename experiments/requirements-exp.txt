@@ -1,0 +1,17 @@
+boto3==1.38.27
+botocore==1.38.27
+brave-search==0.1.8
+coqui-tts==0.26.2
+crawl4ai==0.6.3
+edge-tts==7.0.2
+mutagen==1.47.0
+notebook==7.4.2
+ollama==0.4.8
+openai==1.75.0
+openai-agents==0.0.14
+pydantic==2.11.5
+prefect==3.4.4
+prefect-aws==0.5.10
+supabase==2.15.2
+wikipedia==1.4.0
+yt-dlp==2025.5.22
