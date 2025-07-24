@@ -1,0 +1,11 @@
+{
+  "id": "f01ea675-a5ed-43fa-8d08-12059b4d2838",
+  "status": "Completed",
+  "start_time": "2025-06-05 11:43:11.611291+00:00",
+  "end_time": "2025-06-05 11:43:22.387508+00:00",
+  "input": "/Users/quanbm/Dev/sides/localgaid_notebooks/run_data/place_configs/vungtau_dinhongnamhai.json",
+  "config": "{\"name\":\"Dinh Ông Nam Hải\",\"location\":\"10.427715901950739, 107.29628558337545\",\"urls\":[\"https://vietnamtourism.gov.vn/post/39240\",\"https://ittpa.baria-vungtau.gov.vn/article?item=d228276ba001e8f412067e8d4d22eeaf\",\"https://baobariavungtau.com.vn/van-hoa-nghe-thuat/202503/le-hoi-nghinh-ong-nam-hai-thu-hut-hang-ngan-nguoi-tham-du-1036953/index.htm\",\"https://www.huongphonghococbeachresort.com/y-nghia-le-hoi-nghinh-ong-tai-phuoc-hai-%E2%80%93-van-hoa-tam-linh-cua-nguoi-dan-bien.html\",\"https://thanhnien.vn/ba-ria-vung-tau-le-hoi-dinh-co-nghinh-ong-la-di-san-van-hoa-phi-vat-the-185230218112158285.htm\"]}",
+  "output": "/Users/quanbm/Dev/sides/localgaid_notebooks/run_data/data_bronze/f01ea675-a5ed-43fa-8d08-12059b4d2838/Dinh Ông Nam Hải.json",
+  "urls_crawled": null,
+  "images_crawled": null
+}

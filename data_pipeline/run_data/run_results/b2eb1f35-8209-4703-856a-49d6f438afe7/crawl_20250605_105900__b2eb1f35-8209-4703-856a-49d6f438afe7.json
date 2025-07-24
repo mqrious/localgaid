@@ -1,0 +1,11 @@
+{
+  "id": "b2eb1f35-8209-4703-856a-49d6f438afe7",
+  "status": "Completed",
+  "start_time": "2025-06-05 10:59:00.723071+00:00",
+  "end_time": "2025-06-05 10:59:07.942830+00:00",
+  "input": "/Users/quanbm/Dev/sides/localgaid_notebooks/run_data/place_configs/vungtau_bachdinh.json",
+  "config": "{\"name\":\"Bạch Dinh\",\"location\":\"10.35090141696533, 107.06862216161177\",\"urls\":[\"https://baria-vungtau.gov.vn/sphere/baria/vungtau/page/print.cpx?uuid=5b28ae6052568924f5613131\",\"https://phuong1.vungtau.baria-vungtau.gov.vn/di-tich-danh-thang/-/view-content/765862/bach-dinh-toa-biet-thu-phap-giua-long-thanh-pho-bien-vung-tau\",\"https://vietnam.vnanet.vn/vietnamese/long-form/bach-dinh-%E2%80%93-toa-biet-thu-trang-voi-nhung-cau-chuyen-lich-su-329076.html\",\"https://vi.wikipedia.org/wiki/B%E1%BA%A1ch_Dinh\"]}",
+  "output": "/Users/quanbm/Dev/sides/localgaid_notebooks/run_data/data_bronze/b2eb1f35-8209-4703-856a-49d6f438afe7/Bạch Dinh.json",
+  "urls_crawled": null,
+  "images_crawled": null
+}

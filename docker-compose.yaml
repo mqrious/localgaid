@@ -1,0 +1,14 @@
+services:
+  # Backend storage for Prefect
+  prefect-db:
+    image: postgres:16
+    container_name: prefect-db
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: prefect
+    volumes:
+      - .docker_data/prefectdb:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+    restart: unless-stopped
