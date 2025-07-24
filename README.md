@@ -1,5 +1,5 @@
 # localg*AI*d (localguide)
-Your AI travel companion that acts like a local guide — introducing popular places through immersive audio guides and local insights.
+My AI travel companion that acts like a local guide — introducing popular places through immersive audio guides and local insights.
 
 # Why?
 - I love traveling and learning about the culture and history of places.
@@ -54,7 +54,11 @@ These are the screenshots of the app:
 | List of popular places in Vung Tau that I'm gonna visit | A simple audio guide player screen with images of the place |
 | ![Home screen](docs/app_home_screen.png) | ![Audio guide screen](docs/app_audio_guide_screen.png) |
 
-# localg*AI*d In action
+# localg*AI*d in action
 Here's a picture of me using the app while at Bach Dinh, Vung Tau. Had a fun time listening to the stories while exploring new places.
 
 <img src="docs/app_in_action.png" width="300" alt="Me using the app at Bach Dinh" />
+
+# References and Attributions
+
+This project uses Crawl4AI (https://github.com/unclecode/crawl4ai) for web data extraction.
