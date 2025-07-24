@@ -35,6 +35,9 @@ Step 2. Produces the silver data, extended with audio scripts: [Đình Thần Th
 
 Step 3. Produces the gold data, which are audio files and subtitles, example of one audio guide:
 - The audio file: [01_Phần-1:-Giới-thiệu-tổng-quan-về-Đình-thần-Thắng-Tam.mp3](data_pipeline/run_data/data_gold/6c07f0af-97df-4904-876a-b56ab7edc7d7/01_Phần-1:-Giới-thiệu-tổng-quan-về-Đình-thần-Thắng-Tam.mp3)
+
+https://github.com/user-attachments/assets/aa53f528-c18f-43c4-983e-0964a26aa725
+
 - The subtitle text: [01_Phần-1:-Giới-thiệu-tổng-quan-về-Đình-thần-Thắng-Tam.srt](data_pipeline/run_data/data_gold/6c07f0af-97df-4904-876a-b56ab7edc7d7/01_Phần-1:-Giới-thiệu-tổng-quan-về-Đình-thần-Thắng-Tam.srt)
 
 Step 4. Upload the audio and subtitle files to remote storages.
